@@ -21,13 +21,14 @@ The project will utilize the marketing csv file.
 # Tools and Technologies
 The project is implemented using Python and popular libraries such as:
 
-Scikit-learn: For implementing clustering algorithms.
-Pandas: For data manipulation and preprocessing.
-Matplotlib and Seaborn: For data visualization.
-Jupyter Notebook: For interactive development and documentation.
-Deliverables
+* Scikit-learn: For implementing clustering algorithms.
+*Pandas: For data manipulation and preprocessing.
+* Matplotlib and Seaborn: For data visualization.
+* Jupyter Notebook: For interactive development and documentation.
 
-# The deliverables of the project will include:
+# Deliverables
+
+The deliverables of the project will include:
 
 Data Preprocessing: Cleaning and preparing the dataset for analysis.
 Exploratory Data Analysis (EDA): Exploring the dataset to gain insights and understand patterns.
