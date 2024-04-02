@@ -18,7 +18,7 @@ K-means Clustering: A popular algorithm that partitions data into K clusters bas
 
 The project will utilize the marketing csv file.
 
-T# ools and Technologies
+# Tools and Technologies
 The project is implemented using Python and popular libraries such as:
 
 Scikit-learn: For implementing clustering algorithms.
